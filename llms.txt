@@ -1,0 +1,12 @@
+# Koray Arslan Software Consulting
+
+> Software Consulting für Backend-Architektur und gewachsene Systeme. Landingpage mit einem Angebot: ein kostenloser 30-Minuten-Call, um verschlungene Backends zu entwirren.
+
+## Inhalt
+
+- [Landingpage](https://koraaay.github.io/landing-page/): Headline "Sieht Ihr Backend so aus?", Kurztext, Call-to-Action "Mehr erfahren".
+- [Hauptseite](https://koray-arslan.de): Mehr über Koray Arslan und das Beratungsangebot.
+
+## Kontakt
+
+- Website: https://koray-arslan.de
